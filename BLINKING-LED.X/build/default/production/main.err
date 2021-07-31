@@ -1,0 +1,9 @@
+Warning[207] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 16 : Found label after column 1. (STATUS)
+Warning[207] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 17 : Found label after column 1. (RP0)
+Warning[207] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 18 : Found label after column 1. (RP1)
+Warning[207] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 19 : Found label after column 1. (PORTD)
+Warning[207] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 20 : Found label after column 1. (TRISD)
+Warning[207] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 21 : Found label after column 1. (COUNTER)
+Message[302] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\GAELLE\MPLABXPROJECTS\BLINKING-LED.X\MAIN.ASM 72 : Found directive in column 1. (END)
